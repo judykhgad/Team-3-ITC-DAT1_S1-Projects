@@ -78,7 +78,7 @@ The Power BI project file and dataset are available through the following Google
 
 **[Access the Power BI File and Dataset](https://drive.google.com/drive/folders/1RnygsI7zQC-5jZHPekkadONgQkMwwn3I?usp=sharing)**
 
-The project presentation is also available in HTML format in the project repository, if included among the uploaded files.
+The project presentation is also available in HTML format in the project repository.
 
 ## 💡 Business Value
 
