@@ -1,102 +1,103 @@
-HR Employee Attrition Analysis | Power BI
+# HR Employee Attrition Analysis | Power BI
 
-📌 Project Overview
+## 📌 Project Overview
 
-This team project analyzes employee attrition using Microsoft Power BI to explore workforce trends, identify factors associated with employee turnover, and provide actionable insights to support HR decision-making.
+This team project analyzes employee attrition using **Microsoft Power BI** to explore workforce trends, understand patterns associated with employee turnover, and support data-driven HR decision-making.
 
-The project includes an interactive dashboard with four main report pages and a drill-through page for detailed employee analysis.
+The project features an interactive dashboard consisting of four main report pages and a drill-through page for more detailed analysis.
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
-- Analyze employee attrition and workforce composition.
-- Explore employee demographics and career profiles.
-- Investigate patterns related to overtime and business travel.
-- Examine job satisfaction, work-life balance, and income indicators.
-- Use interactive visualizations and drill-through to explore employee details.
-- Provide data-driven insights to support employee retention strategies.
+- Analyze overall employee attrition and workforce composition.
+- Explore employee demographics and professional profiles.
+- Investigate attrition patterns related to overtime and business travel.
+- Examine employee satisfaction, income, and other workforce-related factors.
+- Use interactive visualizations and drill-through functionality to explore employee details.
+- Present insights that can support employee retention strategies.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
-- Microsoft Power BI — Interactive dashboard development and data visualization.
-- Power Query — Data cleaning and transformation.
-- DAX — Measures, KPIs, and analytical calculations.
-- Data Visualization & Storytelling — Presenting findings in a clear, business-focused format.
+- **Microsoft Power BI** — Dashboard development and data visualization.
+- **Power Query** — Data cleaning and transformation.
+- **DAX** — Measures, KPIs, and analytical calculations.
+- **Data Analysis & Visualization** — Exploring workforce trends and communicating findings.
 
-📊 Key Metrics
+## 📊 Key Metrics
 
-Metric| Value
-Total Employees| 1,470
-Active Employees| 1,233
-Employees Who Left| 237
-Overall Attrition Rate| 16.1%
+| Metric | Value |
+|---|---:|
+| Total Employees | 1,470 |
+| Active Employees | 1,233 |
+| Employees Who Left | 237 |
+| Overall Attrition Rate | 16.1% |
 
-🔍 Key Insights
+## 🔍 Key Insights
 
-- The overall employee attrition rate is 16.1%.
-- Employees working overtime have an attrition rate of 30.5%, compared with 10.4% among employees who do not work overtime.
-- Frequent business travelers have an attrition rate of 24.9%.
-- Employee demographics, job roles, satisfaction levels, and career history provide additional perspectives for exploring workforce trends.
+- The overall employee attrition rate is **16.1%**.
+- Employees working overtime have an attrition rate of **30.5%**, compared with **10.4%** among employees who do not work overtime.
+- Frequent business travelers have an attrition rate of **24.9%**.
+- Demographics, job roles, satisfaction levels, and career history provide additional perspectives for exploring employee attrition patterns.
 
-These findings represent associations in the analyzed data and do not necessarily establish direct causes of employee attrition.
+These findings describe associations within the analyzed data and do not necessarily establish direct causes of employee attrition.
 
-📈 Dashboard Pages
+## 📈 Dashboard Pages
 
-1. Cover Page
+### 1. Cover Page
 
-Project introduction and overview.
+Introduces the project and presents its overall theme.
 
-"Cover Page" (WhatsApp Image 2026-10-15 at 3.56.29 PM.jpeg)
+![Cover Page](<WhatsApp Image 2026-10-15 at 3.56.29 PM.jpeg>)
 
-2. Executive Overview
+### 2. Executive Overview
 
-Presents the main workforce KPIs and an overview of attrition across departments, job roles, gender, and other employee segments.
+Provides an overview of the main workforce KPIs and employee attrition across relevant employee categories.
 
-"Executive Overview" (WhatsApp Image 2026-10-15 at 3.56.29 PM (1).jpeg)
+![Executive Overview](<WhatsApp Image 2026-10-15 at 3.56.29 PM (1).jpeg>)
 
-3. Root Causes and Attrition Risk
+### 3. Root Causes and Attrition Risk
 
-Explores attrition patterns related to overtime, business travel, job satisfaction, income, and other potential risk factors.
+Explores attrition patterns associated with overtime, business travel, job satisfaction, income, and other potential risk factors.
 
-"Root Causes and Attrition Risk" (WhatsApp Image 2026-10-15 at 3.56.29 PM (2).jpeg)
+![Root Causes and Attrition Risk](<WhatsApp Image 2026-10-15 at 3.56.29 PM (2).jpeg>)
 
-4. Employee Demographics and Profile
+### 4. Employee Demographics and Profile
 
-Examines employee demographics, education, marital status, and career-related characteristics.
+Examines employee demographics and professional characteristics to provide a deeper understanding of the workforce.
 
-"Employee Demographics and Profile" (WhatsApp Image 2026-10-15 at 3.56.29 PM (3).jpeg)
+![Employee Demographics and Profile](<WhatsApp Image 2026-10-15 at 3.56.29 PM (3).jpeg>)
 
-5. Drill-Through Page
+### 5. Drill-Through Page
 
-Provides a detailed view of the selected job role, including relevant employee metrics and attrition patterns.
+Enables a more detailed view of the selected job role and related employee attrition information through Power BI drill-through functionality.
 
-"Drill-Through Page" (WhatsApp Image 2026-10-15 at 3.56.29 PM (4).jpeg)
+![Drill-Through Page](<WhatsApp Image 2026-10-15 at 3.56.29 PM (4).jpeg>)
 
-📁 Project Files
+## 📁 Project Files & Dataset
 
-The Power BI project file and dataset are available here:
+The Power BI project file and dataset are available through the following Google Drive folder:
 
-"Access the Power BI File and Dataset on Google Drive" (https://drive.google.com/drive/folders/1RnygsI7zQC-5jZHPekkadONgQkMwwn3I?usp=sharing)
+**[Access the Power BI File and Dataset](https://drive.google.com/drive/folders/1RnygsI7zQC-5jZHPekkadONgQkMwwn3I?usp=sharing)**
 
-The project presentation is provided in HTML format.
+The project presentation is also available in HTML format in the project repository, if included among the uploaded files.
 
-💡 Business Value
+## 💡 Business Value
 
-This project helps HR teams explore employee turnover patterns, identify areas that may require further investigation, and make more informed decisions about workforce management and employee retention.
+This project helps HR teams explore employee turnover patterns, identify areas that may require further investigation, and gain insights that can inform workforce management and employee retention decisions.
 
-👥 Team Members
+## 👥 Team Members
 
 This project was developed collaboratively by:
 
-- Judy Khaled
-- MennaAllah Abdelwahab
-- Retaj Ahmed
-- Somaia Osman
-- Youssef Soliman
+- **Judy Khaled**
+- **MennaAllah Abdelwahab**
+- **Retaj Ahmed**
+- **Somaia Osman**
+- **Youssef Soliman**
 
-🤝 Acknowledgment
+## 🤝 Acknowledgment
 
-This project represents our team's collaborative efforts in data preparation, analysis, dashboard design, and business insight generation using Power BI.
+This project represents our team's collaborative work in data preparation, analysis, dashboard design, and data visualization using Power BI.
 
 ---
 
-HR Employee Attrition Analysis | Team Project | Power BI & Data Analytics
+*HR Employee Attrition Analysis | Team Project | Power BI & Data Analytics*
