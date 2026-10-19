@@ -78,7 +78,7 @@ The Power BI project file and dataset are available through the following Google
 
 **[Access the Power BI File and Dataset](https://drive.google.com/drive/folders/1RnygsI7zQC-5jZHPekkadONgQkMwwn3I?usp=sharing)**
 
-The project presentation is also available in **[HTML format](file:///E:/HR%20Employee%20Attrition%20Analysis%20(1).html)**
+The project presentation is also available in **[HTML format](https://drive.google.com/file/d/1oO-YtW2Jib5QQ0vppNQw32orzvqJaQGD/view?usp=sharing)**
 
 ## 💡 Business Value
 
