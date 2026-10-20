@@ -80,7 +80,7 @@ The Power BI project file and dataset are available through the following Google
 
 The project presentation is also available in **[HTML format](https://drive.google.com/file/d/1oO-YtW2Jib5QQ0vppNQw32orzvqJaQGD/view?usp=sharing)**
 
-**[Full Documentation Here](https://drive.google.com/drive/folders/1mrQ06Q5wOXDSI5Y8NAlAIiPbdSa1SKn5)**
+Full Documentation **[Here](https://drive.google.com/drive/folders/1mrQ06Q5wOXDSI5Y8NAlAIiPbdSa1SKn5)**
 ## 💡 Business Value
 
 This project helps HR teams explore employee turnover patterns, identify areas that may require further investigation, and gain insights that can inform workforce management and employee retention decisions.
